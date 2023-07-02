@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://nidhidewangan03.github.io/Github_copilot",
+  "homepage": "https://nidhidewangan03.github.io/Github_copilot",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://nidhidewangan03.github.io/Github_copilot'",
+    "build-gh": "parcel build --public-url 'https://nidhidewangan03.github.io/Github_copilot'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
